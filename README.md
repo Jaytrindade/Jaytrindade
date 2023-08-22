@@ -2,7 +2,7 @@
 <!--<h3 align="center">A developer passionate about programming</h3>-->
 
 - 🔭  I’m currently working at [MSTelcom](https://www.mstelcom.co.ao/) 
-- 🌱 FUll-Stack (M.E.R.N)
+- 🌱 Full-Stack (M.E.R.N)
 - ✏️ I’m currently learning Full-Stack Engineer at [Codecademy](https://www.codecademy.com/) 
 - 💬 Ask me about code, anime, movies and laptops
 - 📫  How to reach me: [Instagram](https://www.instagram.com/jay_soft_99/)
